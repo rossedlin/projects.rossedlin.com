@@ -19,16 +19,16 @@
  */
 
 //define('WP_CACHE', true); //Added by WP-Cache Manager
-define('WP_HOME','https://www.cuttingweb.co.uk');
-define('WP_SITEURL','https://www.cuttingweb.co.uk');
+define('WP_HOME','https://projects.rossedlin.com/www.cuttingweb.co.uk/');
+define('WP_SITEURL','https://projects.rossedlin.com/www.cuttingweb.co.uk/');
 define('FS_METHOD','direct');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'cuttingw_www');
+define('DB_NAME', 'cuttingw_proj_cw');
 
 /** MySQL database username */
-define('DB_USER', 'cuttingw_www');
+define('DB_USER', 'cuttingw_project');
 
 /** MySQL database password */
 define('DB_PASSWORD', '&j1T1G8,bD6\Vh"x');
