@@ -2,8 +2,8 @@ cd ~/rossedlin.com/
 echo "Install -> projects.rossedlin.com"
 
 #Cleanup
-rm -R -f old_www
-rm -R -f www.rossedlin.com-laravel
+rm -R -f old_projects
+rm -R -f projects.rossedlin.com
 
 #Git
 git clone -b master https://bitbucket.org/rossedlin/projects.rossedlin.com
