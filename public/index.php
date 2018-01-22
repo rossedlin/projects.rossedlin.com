@@ -14,7 +14,7 @@ require __DIR__ . '/../vendor/autoload.php';
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="shortcut icon" href="http://cdn-aws-rossedlin.s3.eu-central-1.amazonaws.com/favicon/v1/favicon.ico">
 
 	<!-- Google Fonts -->
 	<link rel="stylesheet"
@@ -104,6 +104,25 @@ require __DIR__ . '/../vendor/autoload.php';
 		</div>
 	</header>
 	<!-- End Header -->
+
+	<div id="content" class="site-content">
+
+		<!-- Projects -->
+		<div class="container g-pt-50 g-pb-20 g-pt-140">
+			<!-- Heading -->
+			<div class="text-center mx-auto" style="margin-top: 60px;">
+				<h1 class="text-uppercase g-color-main-light-v1 g-font-weight-600 g-font-size-36 g-letter-spacing-2 mb-4">
+					Projects
+				</h1>
+				<p class="g-font-size-16">
+					Welcome to my projects site, this is a vanilla website utilising bootstrap.
+				</p>
+			</div>
+			<!-- End Heading -->
+		</div>
+		<!-- End Projects -->
+
+	</div>
 
 	<!-- Footer -->
 	<footer class="copyright g-py-20" style="background-color: #0a0a0a;">
