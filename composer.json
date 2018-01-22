@@ -3,11 +3,7 @@
   "description": "Project Website for Ross Edlin.",
   "version": "1.0.0",
   "require": {
-    "php": ">=5.6.4"
-  },
-  "autoload": {
-    "psr-4": {
-      "App\\": "app/"
-    }
+    "php": ">=5.6.4",
+    "rossedlin/cryslo-php": "2.0.*"
   }
 }
