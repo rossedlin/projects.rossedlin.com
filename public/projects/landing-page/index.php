@@ -68,13 +68,13 @@ require('../../../vendor/autoload.php');
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
 			<li class="nav-item">
-				<a class="nav-link" href="http://www.cuttingweb.co.uk/" target="_blank">Business Website</a>
+				<a class="nav-link" href="http://www.rossedlin.com/" target="_blank">Business Website</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="http://www.cuttingweb.co.uk/cv" target="_blank">C.V.</a>
+				<a class="nav-link" href="http://www.rossedlin.com/cv" target="_blank">C.V.</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="http://www.cuttingweb.co.uk/contact" target="_blank">Contact</a>
+				<a class="nav-link" href="http://www.rossedlin.com/contact" target="_blank">Contact</a>
 			</li>
 		</ul>
 	</div>
@@ -87,10 +87,10 @@ require('../../../vendor/autoload.php');
 				<div class="header-content mx-auto text-center">
 					<h1 class="mb-5">
 						I'm <span>Ross Edlin</span>, a web developer, check out my 
-						<a href="http://www.cuttingweb.co.uk/portfolio" target="_blank">portfolio here</a>
+						<a href="http://www.rossedlin.com/portfolio" target="_blank">portfolio here</a>
 						or have a browse of my business website.
 					</h1>
-					<a href="http://www.cuttingweb.co.uk/" target="_blank" class="btn btn-outline btn-xl">See My Business Website</a>
+					<a href="http://www.rossedlin.com/" target="_blank" class="btn btn-outline btn-xl">See My Business Website</a>
 				</div>
 			</div>
 			<div class="col-xs-12 col-lg-5 text-center">
@@ -224,7 +224,7 @@ require('../../../vendor/autoload.php');
 
 <footer>
 	<div class="container">
-		<p>&copy; <?= date('Y') ?> <a href="http://www.cuttingweb.co.uk/" target="_blank" style="color: rgba(255, 255, 255, 0.5);">Cutting Web.</a> All Rights Reserved.</p>
+		<p>&copy; 2017 - <?= date('Y') ?> All Rights Reserved | Created By <a href="http://www.rossedlin.com/" target="_blank" style="color: rgba(255, 255, 255, 0.5);">Ross Edlin</a> </p>
 	</div>
 </footer>
 
