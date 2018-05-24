@@ -79,8 +79,7 @@ require __DIR__ . '/../vendor/autoload.php';
 
         <div class="links">
             <a href="http://projects.rossedlin.com/landing-page" target="_blank">Landing Page</a>
-            <a href="http://www.rossedlin.com/" target="_blank">Ross Edlin</a>
-            <a href="http://www.kinktank.co.uk/" target="_blank">KinkTank</a>
+            <a href="http://projects.rossedlin.com/interesting-holiday-destination" target="_blank">Interesting Holiday Destination</a>
         </div>
     </div>
 </div>
