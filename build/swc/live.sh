@@ -16,7 +16,7 @@ if [ -d /var/www/projects.rossedlin.com ]; then
     #Clone Individual Projects
     cd /var/www/projects.rossedlin.com/projects
     git clone https://github.com/rossedlin/interesting-holiday-destination
-    git clone https://github.com/rossedlin/www.rossedlin.com-landing-page
+    git clone https://github.com/rossedlin/www.rossedlin.com-landing-page landing-page
 
     #Permissions
     chmod 777 -R /var/www/projects.rossedlin.com
