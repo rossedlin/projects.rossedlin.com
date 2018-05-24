@@ -17,6 +17,10 @@ if [ -d /var/www/projects.rossedlin.com ]; then
     cd /var/www/projects.rossedlin.com/projects
     git clone https://github.com/rossedlin/interesting-holiday-destination
     git clone https://github.com/rossedlin/www.rossedlin.com-landing-page landing-page
+    
+    #Run Composer on Individual Projects
+    cd /var/www/projects.rossedlin.com/projects/landing-page
+    composer install
 
     #Permissions
     chmod 777 -R /var/www/projects.rossedlin.com
